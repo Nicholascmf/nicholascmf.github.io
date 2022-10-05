@@ -1,0 +1,16 @@
+---
+title: "Nicholas de Carvalho"
+image: "postcard_photo.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+ 
+  - label: GitHub
+    url: "https://github.com/Nicholascmf"
+  - label: Email
+    url: "mailto:nickmfs35@email.com"
+output:
+  postcards::jolla
+---
+ 
+Do Rio de Janeiro, atualmente em Ouro Branco cursando Engenharia Mecatrônica na UFSJ 
